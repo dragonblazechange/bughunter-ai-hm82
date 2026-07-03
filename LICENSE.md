@@ -1,4 +1,4 @@
-# 
+# Personalizado BugHunter configuração. Baixe e instale com modelos pré-treinados e download rápido — rápido, seguro e fácil de usar.
 
 
 
